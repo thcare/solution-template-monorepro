@@ -1,0 +1,13 @@
+{
+  "name": "solution-template-monorepro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thcare/solution-template-monorepro.git",
+  "license": "ISC",
+  "author": "Thrive Health",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ]
+}
