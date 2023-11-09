@@ -8284,9 +8284,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"solution-template@workspace:.":
+"solution-template-monorepro@workspace:.":
   version: 0.0.0-use.local
-  resolution: "solution-template@workspace:."
+  resolution: "solution-template-monorepro@workspace:."
+  languageName: unknown
+  linkType: soft
+
+"solution@workspace:packages/solution":
+  version: 0.0.0-use.local
+  resolution: "solution@workspace:packages/solution"
   dependencies:
     "@azure/functions": "npm:^3.5.1"
     "@graphql-codegen/cli": "npm:^5.0.0"
