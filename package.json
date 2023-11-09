@@ -2,7 +2,7 @@
   "name": "solution-template-monorepo",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/thcare/solution-template-monorepro.git",
+  "repository": "https://github.com/thcare/solution-template-monorepo.git",
   "license": "ISC",
   "author": "Thrive Health",
   "private": true,

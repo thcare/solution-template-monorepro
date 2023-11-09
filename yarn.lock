@@ -8324,9 +8324,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"solution-template-monorepro@workspace:.":
+"solution-template-monorepo@workspace:.":
   version: 0.0.0-use.local
-  resolution: "solution-template-monorepro@workspace:."
+  resolution: "solution-template-monorepo@workspace:."
   languageName: unknown
   linkType: soft
 

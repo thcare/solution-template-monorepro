@@ -1,3 +1,3 @@
-# solution-template-monorepro
+# solution-template-monorepo
 
 TBD
