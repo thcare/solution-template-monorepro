@@ -1,3 +1,0 @@
-# We don't want the generated files committed to source, and putting the .gitignore in
-# the generated directory doesn't work as it gets deleted, so we put it here.
-generated/
