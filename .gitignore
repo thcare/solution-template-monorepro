@@ -12,6 +12,10 @@ node_modules/
 !.yarn/sdks
 !.yarn/versions
 
+# vscode 
+.vscode/*
+!.vscode/extensions.json
+
 # Logs
 npm-debug.log*
 yarn-debug.log*

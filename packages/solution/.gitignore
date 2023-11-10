@@ -3,7 +3,6 @@
 
 # Generated code
 src/generated/
-# generated/
 
 # thfx generated
 prisma/schema.prisma
