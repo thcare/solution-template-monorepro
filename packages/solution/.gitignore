@@ -1,0 +1,37 @@
+# Output of 'yarn pack'
+*.tgz
+
+# Generated code
+src/generated/
+
+# thfx generated
+prisma/schema.prisma
+schema.gql
+prisma/generated-schema.prisma
+
+# Cypress screenshots
+cypress/screenshots/
+
+# Azure functions
+bin
+obj
+csx
+.vs
+edge
+Publish
+
+*.user
+*.suo
+*.cscfg
+*.Cache
+project.lock.json
+
+./packages
+./TestResults
+
+./tools/NuGet.exe
+./App_Data
+./secrets
+./data
+.secrets
+appsettings.json
