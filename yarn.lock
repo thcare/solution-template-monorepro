@@ -1969,9 +1969,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@thcare/eslint-config-thcare@npm:^32.4.0":
-  version: 32.4.0
-  resolution: "@thcare/eslint-config-thcare@npm:32.4.0::__archiveUrl=https%3A%2F%2Fpkg.thdev.care%2F%40thcare%2Feslint-config-thcare%2F-%2F698d2c7db984e75d1cee9f982fa3c6d61435ca5a"
+"@thcare/eslint-config-thcare@npm:^33.10.0":
+  version: 33.10.0
+  resolution: "@thcare/eslint-config-thcare@npm:33.10.0::__archiveUrl=https%3A%2F%2Fpkg.thdev.care%2F%40thcare%2Feslint-config-thcare%2F-%2F68ae5669fe35c06a6a57b925feb5eacd4fad755a"
   dependencies:
     "@typescript-eslint/eslint-plugin": "npm:^6.6.0"
     "@typescript-eslint/parser": "npm:^6.6.0"
@@ -2000,18 +2000,18 @@ __metadata:
     prettier: ^2.8.8
     prettier-plugin-jsdoc: ^0.4.2
     typescript: ^5.2.2
-  checksum: 6b554dd09b0c97686e28ea4cd1f558625179ef3145124c579a6f37180d5aba103609fd42eaf4cf367a0ebc0e9ddac27becdddf96429546cefd0e414bc9ae6c9c
+  checksum: 5c0f52c26dcf3a758ac6353ca0ee2314c74164767d53f15b51edf482b788afa4e7c14115741944fb1c0168c694ee1ae48434924aaaf1f59f640de21c01cf1910
   languageName: node
   linkType: hard
 
-"@thcare/thfx@npm:^32.4.0":
-  version: 32.4.0
-  resolution: "@thcare/thfx@npm:32.4.0::__archiveUrl=https%3A%2F%2Fpkg.thdev.care%2F%40thcare%2Fthfx%2F-%2Fd03bdfa3298e5cd4c348c333d27900f4ec1bf7e3"
+"@thcare/thfx@npm:^33.10.0":
+  version: 33.10.0
+  resolution: "@thcare/thfx@npm:33.10.0::__archiveUrl=https%3A%2F%2Fpkg.thdev.care%2F%40thcare%2Fthfx%2F-%2F2737301b39509e27b0aa8fdca76ad614e0f8be17"
   dependencies:
     "@azure/storage-blob": "npm:^12.16.0"
     "@oclif/core": "npm:^3.3.2"
     "@oclif/plugin-help": "npm:^6.0.3"
-    "@thcare/thschemix": "npm:^32.4.0"
+    "@thcare/thschemix": "npm:^33.10.0"
     "@types/json-logic-js": "npm:^2.0.2"
     axios: "npm:^1.6.0"
     bytes: "npm:^3.1.2"
@@ -2034,7 +2034,7 @@ __metadata:
     yup: "npm:^1.2.0"
   peerDependencies:
     "@prisma/client": ^5.4.2
-    "@thcare/thschemix": ^32.4.0
+    "@thcare/thschemix": ^33.10.0
     graphql: ^16.8.0
     prisma: ^5.4.2
     react: 18.2.0
@@ -2042,16 +2042,16 @@ __metadata:
     typegraphql-prisma: ^0.27.1
   bin:
     thfx: ./bin/run.js
-  checksum: 1952cab2647ca660ea6b84cb3c6ca1078266a1060f78a62f577580dde81fa5189cff729ae65a449bba468895395a95f9932f5f000a7580a2bb1cb63ceff7b001
+  checksum: 59a392f2f9cd8b8351dd9ddc08bb1d5bd7f7fe5e1d42ba71e4965cdf006bf28c9d4c88a4598264f003139b8a1af9f3f2880d84f7a741bc15e99904e7bbde1f3f
   languageName: node
   linkType: hard
 
-"@thcare/thschemix@npm:^32.4.0":
-  version: 32.4.0
-  resolution: "@thcare/thschemix@npm:32.4.0::__archiveUrl=https%3A%2F%2Fpkg.thdev.care%2F%40thcare%2Fthschemix%2F-%2F2e7e1e2c4276a606026609c1f6829ba2549d29c6"
+"@thcare/thschemix@npm:^33.10.0":
+  version: 33.10.0
+  resolution: "@thcare/thschemix@npm:33.10.0::__archiveUrl=https%3A%2F%2Fpkg.thdev.care%2F%40thcare%2Fthschemix%2F-%2Ff75136f6f6466f7c95224caba0616aa0bbe7a97c"
   dependencies:
     invariant: "npm:^2.2.4"
-  checksum: 3511da61589ff83d1e6fefc8cb22de5f5b69d9dced435eeed0de523979cb2eb7b42c0e3cfa65e801168a7a30c0147557c15784b1340654b9dcadbb6b296073d7
+  checksum: 59aaf3ad14fcad9cf38dda2228adbb2f1d34d76501958caccf53add5bb9c418801b1d42fa19d2752cc79c5eaa2d3ab4a11f792cdfbf7e0d046d59b6539d6884f
   languageName: node
   linkType: hard
 
@@ -8356,9 +8356,9 @@ __metadata:
     "@graphql-codegen/cli": "npm:^5.0.0"
     "@graphql-codegen/client-preset": "npm:^4.1.0"
     "@prisma/client": "npm:^5.4.2"
-    "@thcare/eslint-config-thcare": "npm:^32.4.0"
-    "@thcare/thfx": "npm:^32.4.0"
-    "@thcare/thschemix": "npm:^32.4.0"
+    "@thcare/eslint-config-thcare": "npm:^33.10.0"
+    "@thcare/thfx": "npm:^33.10.0"
+    "@thcare/thschemix": "npm:^33.10.0"
     "@tsconfig/node18": "npm:^18.2.2"
     "@types/graphql-fields": "npm:^1.3.8"
     "@types/invariant": "npm:^2.2.35"
