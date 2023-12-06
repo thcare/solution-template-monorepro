@@ -37,7 +37,8 @@
     "lint": "wireit",
     "open-browser": "[ \"${GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN}\" ] && ( sensible-browser \"https://${CODESPACE_NAME}-3000.${GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN}/\" ) || ( sensible-browser http://localhost:3000 )",
     "start": "wireit",
-    "workbench": "yarn run dev --watch"
+    "workbench": "yarn run dev --watch",
+    "add-react-native": "thfx solution:create-app --template react-native "
   },
   "dependencies": {
     "@azure/functions": "^3.5.1",
